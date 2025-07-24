@@ -1,12 +1,62 @@
-# React + Vite
+# 🚀 Portafolio Web 3D
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido/a a mi portafolio interactivo desarrollado con tecnologías modernas del ecosistema frontend!
 
-Currently, two official plugins are available:
+🔮 Este proyecto incluye un modelo 3D animado (laptop con teclado RGB) que puedes rotar, junto con una interfaz elegante en modo oscuro 🌑 con acentos verdes 💚.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧑‍💻 Sobre el proyecto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Este portafolio fue creado para presentar mis habilidades como **Desarrollador Fullstack**, mis proyectos y experiencia profesional.
+
+### 🎨 Características principales
+
+- 💻 Modelo 3D interactivo (Three.js con `@react-three/fiber`)
+- 🌙 Tema oscuro con estilo moderno
+- 📱 Diseño responsive para móviles y desktop
+- ⚡ Desarrollado con Vite para carga rápida
+- 📂 Secciones claras: Sobre mí, Habilidades, Proyectos, CV y Contacto
+
+---
+
+## 🧪 Tecnologías utilizadas
+
+| Tecnología        | Descripción                           |
+|-------------------|----------------------------------------|
+| React             | Librería principal para UI             |
+| Vite              | Build tool rápido y moderno            |
+| @react-three/fiber| Renderizado 3D basado en React         |
+| Drei              | Utilidades y controles para Three.js   |
+| CSS3              | Estilos personalizados y animaciones   |
+| HTML5             | Estructura semántica                   |
+
+---
+
+## 📸 Vista previa
+
+![preview](./public/preview.jpg) <!-- Asegúrate de tener esta imagen -->
+
+---
+
+## 🔧 Instalación local
+
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/tuusuario/mi-portafolio.git
+```
+
+```bash
+# 2. Ingresa a la carpeta
+cd mi-portafolio
+```
+
+```bash
+# 3. Instala dependencias
+npm install
+```
+
+```bash
+# 4. Ejecuta el proyecto
+npm run dev
+```
