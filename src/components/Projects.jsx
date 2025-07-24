@@ -5,7 +5,7 @@ function Projects() {
       descripcion: `Construí una aplicación web para registrar torneos, jugadores y emparejamientos de partidas. 
       Incluye formularios, validaciones, conexión con base de datos y panel de administración para gestión de resultados.`,
       tecnologias: "PHP, MySQL, HTML, CSS, JavaScript, Bootstrap",
-      link: "https://github.com/tuusuario/chess-peru",
+      link: "https://chessperu.com",
     },
     {
       titulo: "LearnIA",
