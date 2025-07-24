@@ -1,0 +1,28 @@
+.typewriter {
+  color: var(--beige);
+  font-size: 2.8rem;
+  overflow: hidden;
+  border-right: 2px solid var(--beige);
+  white-space: nowrap;
+  width: 0;
+  animation: typing 3s steps(20, end) forwards, blink 0.75s step-end infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 18ch;
+  }
+}
+
+@keyframes blink {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: var(--beige);
+  }
+}

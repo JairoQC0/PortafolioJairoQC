@@ -1,0 +1,25 @@
+/* index.css */
+:root {
+  --verde-bosque: #2e7d32;
+  --blanco: #ffffff;
+  --negro: #121212;
+  --gris-oscuro: #1e1e1e;
+  --beige: #198f0f;
+  --font-main: "Nunito", sans-serif;
+  --radius: 12px;
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--negro);
+  color: var(--blanco);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
