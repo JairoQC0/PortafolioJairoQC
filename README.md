@@ -43,7 +43,7 @@ Este portafolio fue creado para presentar mis habilidades como **Desarrollador F
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/mi-portafolio.git
+git clone https://github.com/JairoQC0/PortafolioJairoQC
 ```
 
 ```bash
