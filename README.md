@@ -48,7 +48,7 @@ git clone https://github.com/JairoQC0/PortafolioJairoQC
 
 ```bash
 # 2. Ingresa a la carpeta
-cd mi-portafolio
+cd PortafolioJairoQC
 ```
 
 ```bash
